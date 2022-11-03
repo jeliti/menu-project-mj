@@ -1,5 +1,5 @@
 # menu-project-mj
-
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jeliti/menu-project-mj/main?filepath=Data_analysis_notebook.ipynb)
 
 ## Presentation
  
