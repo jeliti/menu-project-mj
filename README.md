@@ -4,7 +4,7 @@
 ## Presentation
  
  ceci est un prototype de projet en analyse de donnee
-<img src='images/spotify.png' width="1000px">
+<img src='images/spotify.png' width="500px">
  ## : file_folder: Dataset
 
 
