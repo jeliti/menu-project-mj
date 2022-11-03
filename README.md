@@ -14,28 +14,12 @@ Cet ensemble de données se compose d'environ 600 chansons qui figuraient parmi 
 <!DOCTYPE html>
 <html>
 <head>
-<style>
-table {
-  font-family: arial, sans-serif;
-  border-collapse: collapse;
-  width: 100%;
-}
 
-td, th {
-  border: 1px solid #dddddd;
-  text-align: left;
-  padding: 8px;
-}
 
-tr:nth-child(even) {
-  background-color: #dddddd;
-}
-</style>
-</head>
 <body>
 <table>
   <tr>
-	 <th>Variable</th>	 <th>Explanation</th>  </tr>
+	  <th></th> <th>Variable</th>	 <th>Explanation</th>  </tr>
 	<tr><td>0</td>	<td>title</td>	       <td> The title of the song</td></tr>
 <tr><td>1</td>	<td>	artist	  </td>	       <td>        The artist of the song</td></tr>
 <tr><td>2</td>	<td>	top genre</td>	       <td> 	The genre of the song</td></tr>
