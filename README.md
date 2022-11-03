@@ -54,3 +54,5 @@ Votre amie, qui est une musicienne en herbe, veut faire une chanson à succès e
 
 
 ## Conclusion
+	
+<p><center>	Le moteur de recommandation musicale de Spotify est vital pour l'entreprise pour deux raisons principales. Premièrement, la principale source de revenus de Spotify est sa clientèle payante - être en mesure d'offrir à ces clients un bon service sous la forme d'une musique pertinente est vital. Deuxièmement, Spotify est incité à fournir aux clients non payants des recommandations pertinentes dans l'espoir de convertir ces clients en clients payants.</center></p>
